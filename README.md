@@ -6,6 +6,6 @@ Este proyecto implementa una **Búsqueda Binaria Recursiva** en Python y analiza
 2. Ejecuta el comando: `python busqueda_recursiva.py`
 
 ## Contenido del repositorio
-- `busqueda_recursiva.py`: Código fuente del algoritmo.
+- `Codigo.py`: Código fuente del algoritmo.
 - `Investigación.pdf`: Documento sobre concurrencia.
-- `video_link.txt`: Enlace a la demostración en YouTube.
+(Iba a haber video pero no tuve tiempo para hacerlo, asi que solo esta todo esto.)
